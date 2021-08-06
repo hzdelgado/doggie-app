@@ -1,0 +1,33 @@
+.title-container {
+  min-height: 220px;
+  background-color: #3269a8;
+  box-shadow: 0px 10px 10px -6px gray;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.title {
+  padding-top: 3%;
+  font-weight: bolder;
+  font-size: 80px;
+  text-align: center;
+  color: white;
+}
+
+.content {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.dog-container {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.form-body {
+  width: 700px;
+  margin: 0 auto;
+  padding-top: 2%;
+}

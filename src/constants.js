@@ -1,0 +1,1 @@
+export const apiUrl = "https://6106315f1f3487001743783b.mockapi.io/doggie/api/v1";
